@@ -1,0 +1,13 @@
+development:
+  container_name: af_test
+  username: minter
+  api_key: b56f93387230e858eeaebb28d2796744
+
+test:
+  username: minter
+  api_key: b56f93387230e858eeaebb28d2796744
+
+production:
+  container_name: appname_production
+  username: 
+  api_key: 
